@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AngularJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- 📩 - sahil.khan.jnv.meerut@gmail.com
+- 📩 - sahilangulardev@gmail.com
 - 📞 9639106384
 
 <!---
